@@ -28,7 +28,7 @@
       "fr": "Pain frais uniquement pour les clients de Vienne",
       "fa": "نان تازه مخصوص مشتریان وین"
     },
-    "imageURL": "https://github.com/AdsForApplication/Ads/main/bread.png",
+    "imageURL": "https://raw.github.com/AdsForApplication/Ads/main/bread.png",
     "externalURL": "https://example.com/bread",
     "targetCountry": "AT",
     "targetCity": "Vienna"
