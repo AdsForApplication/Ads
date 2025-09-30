@@ -11,7 +11,7 @@
       "fr": "Fromage délicieux avec 20% de réduction",
       "fa": "پنیر خوشمزه با ۲۰٪ تخفیف"
     },
-    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/cheese.png",
+    "imageURL": "https://githubusercontent.com/AdsForApplication/Ads/main/cheese.png",
     "externalURL": "https://example.com/cheese",
     "targetCountry": "",
     "targetCity": ""
@@ -28,7 +28,7 @@
       "fr": "Pain frais uniquement pour les clients de Vienne",
       "fa": "نان تازه مخصوص مشتریان وین"
     },
-    "imageURL": "https://raw.github.com/AdsForApplication/Ads/main/bread.png",
+    "imageURL": "https://github.com/AdsForApplication/Ads/main/bread.png",
     "externalURL": "https://example.com/bread",
     "targetCountry": "AT",
     "targetCity": "Vienna"
@@ -45,7 +45,7 @@
       "fr": "Disponible uniquement en France",
       "fa": "فقط در فرانسه موجود است"
     },
-    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/wine.png",
+    "imageURL": "https://githubusercontent.com/AdsForApplication/Ads/main/wine.png",
     "externalURL": "https://example.com/wine",
     "targetCountry": "FR",
     "targetCity": ""
