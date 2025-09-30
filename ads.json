@@ -1,7 +1,7 @@
 [
   {
     "id": "ad-vienna-cheese",
-    "title": { "en": "Cheese Sale — Vienna!", "fa": "تخفیف پنیر — وین!" },
+    "title": { "en": "Chcolate!", "fa": "تخفیف پنیر — وین!" },
     "body": { "en": "20% off local cheese in Vienna.", "fa": "۲۰٪ تخفیف پنیر محلی در وین." },
     "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/cheese.png",
     "targetCities": ["Vienna"],
@@ -13,7 +13,7 @@
   },
   {
     "id": "ad-austria-foodfest",
-    "title": { "en": "Austria FoodFest", "fa": "فست غذایی اتریش" },
+    "title": { "en": "Hamburger", "fa": "فست غذایی اتریش" },
     "body": { "en": "Special offers across Austria.", "fa": "پیشنهادهای ویژه در سراسر اتریش." },
     "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/cheese.png",
     "targetCities": [],
