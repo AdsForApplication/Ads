@@ -1,53 +1,38 @@
 [
   {
-    "id": 1,
-    "title": {
-      "en": "Cheese Offer",
-      "fr": "Offre Fromage",
-      "fa": "تخفیف پنیر"
-    },
-    "body": {
-      "en": "Delicious cheese with 20% discount",
-      "fr": "Fromage délicieux avec 20% de réduction",
-      "fa": "پنیر خوشمزه با ۲۰٪ تخفیف"
-    },
-    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/cheese.png",
-    "externalURL": "https://example.com/cheese",
-    "targetCountry": "",
-    "targetCity": ""
+    "id": "ad-vienna-cheese",
+    "title": { "en": "Cheese Sale — Vienna!", "fa": "تخفیف پنیر — وین!" },
+    "body": { "en": "20% off local cheese in Vienna.", "fa": "۲۰٪ تخفیف پنیر محلی در وین." },
+    "imageURL": "https://raw.githubusercontent.com/AdsForAplication/Ads/main/images/cheese.png",
+    "targetCities": ["Vienna"],
+    "targetRegions": ["Vienna"],
+    "targetCountries": ["AT"],
+    "startDate": "2025-09-01T00:00:00Z",
+    "endDate": "2025-09-30T23:59:59Z",
+    "externalURL": "https://example.com/vienna-cheese"
   },
   {
-    "id": 2,
-    "title": {
-      "en": "Vienna Local Market",
-      "fr": "Marché local de Vienne",
-      "fa": "بازار محلی وین"
-    },
-    "body": {
-      "en": "Fresh bread only for Vienna customers",
-      "fr": "Pain frais uniquement pour les clients de Vienne",
-      "fa": "نان تازه مخصوص مشتریان وین"
-    },
-    "imageURL": "https://raw.github.com/AdsForApplication/Ads/main/bread.png",
-    "externalURL": "https://example.com/bread",
-    "targetCountry": "AT",
-    "targetCity": "Vienna"
+    "id": "ad-austria-foodfest",
+    "title": { "en": "Austria FoodFest", "fa": "فست غذایی اتریش" },
+    "body": { "en": "Special offers across Austria.", "fa": "پیشنهادهای ویژه در سراسر اتریش." },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/images/Bread.png",
+    "targetCities": [],
+    "targetRegions": [],
+    "targetCountries": ["AT"],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "https://example.com/austria-fest"
   },
   {
-    "id": 3,
-    "title": {
-      "en": "France Exclusive Wine",
-      "fr": "Vin exclusif de France",
-      "fa": "شراب ویژه فرانسه"
-    },
-    "body": {
-      "en": "Available only in France",
-      "fr": "Disponible uniquement en France",
-      "fa": "فقط در فرانسه موجود است"
-    },
-    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/wine.png",
-    "externalURL": "https://example.com/wine",
-    "targetCountry": "FR",
-    "targetCity": ""
+    "id": "ad-global-free-shipping",
+    "title": { "en": "Free shipping worldwide", "fa": "ارسال رایگان به سراسر جهان" },
+    "body": { "en": "Free shipping on orders over $50.", "fa": "ارسال رایگان برای سفارش‌های بالای ۵۰ دلار." },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/images/Wine.png",
+    "targetCities": [],
+    "targetRegions": [],
+    "targetCountries": [],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "https://example.com/global-offer"
   }
 ]
