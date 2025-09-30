@@ -27,7 +27,7 @@
     "id": "ad-global-free-shipping",
     "title": { "en": "Free shipping worldwide", "fa": "ارسال رایگان به سراسر جهان" },
     "body": { "en": "Free shipping on orders over $50.", "fa": "ارسال رایگان برای سفارش‌های بالای ۵۰ دلار." },
-    "imageURL": https://raw.githubusercontent.com/AdsForApplication/Ads/main/cheese.png,
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/cheese.png",
     "targetCities": [],
     "targetRegions": [],
     "targetCountries": [],
