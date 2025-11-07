@@ -118,7 +118,7 @@
     "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/bread.png",
     "targetCities": [],
     "targetRegions": [],
-    "targetCountries": [AT],
+    "targetCountries": ["AT"],
     "startDate": null,
     "endDate": null,
     "externalURL": "https://example.com/global-offer"
