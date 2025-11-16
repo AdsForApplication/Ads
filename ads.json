@@ -104,9 +104,9 @@
     "title": { "en": "Austria FoodFest", "fa": "فست غذایی اتریش" },
     "body": { "en": "Special offers across Austria.", "fa": "پیشنهادهای ویژه در سراسر اتریش." },
     "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/wine.png",
-    "targetCities": ["Berlin"],
-    "targetRegions": ["Berlin"],
-    "targetCountries": ["DE"],
+    "targetCities": ["Vienna"],
+    "targetRegions": ["Vienna"],
+    "targetCountries": ["AT"],
     "startDate": null,
     "endDate": null,
     "externalURL": "https://example.com/austria-fest"
