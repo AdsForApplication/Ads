@@ -170,5 +170,41 @@
     "startDate": null,
     "endDate": null,
     "externalURL": "https://example.com/global-offer"
+  },
+  {
+    "id": "ad-austria-foodfest",
+    "title": { "en": "Austria FoodFest", "fa": "فست غذایی اتریش" },
+    "body": { "en": "Special offers across Austria.", "fa": "پیشنهادهای ویژه در سراسر اتریش." },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/wine.png",
+    "targetCities": ["Vienna"],
+    "targetRegions": ["Vienna"],
+    "targetCountries": ["AT"],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "https://example.com/austria-fest"
+  },
+  {
+    "id": "ad-austria-foodfest",
+    "title": { "en": "Austria FoodFest", "fa": "فست غذایی اتریش" },
+    "body": { "en": "Special offers across Austria.", "fa": "پیشنهادهای ویژه در سراسر اتریش." },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/wine.png",
+    "targetCities": ["Vienna"],
+    "targetRegions": ["Vienna"],
+    "targetCountries": ["AT"],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "https://example.com/austria-fest"
+  },
+  {
+    "id": "ad-austria-foodfest",
+    "title": { "en": "Austria FoodFest", "fa": "فست غذایی اتریش" },
+    "body": { "en": "Special offers across Austria.", "fa": "پیشنهادهای ویژه در سراسر اتریش." },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/wine.png",
+    "targetCities": ["Vienna"],
+    "targetRegions": ["Vienna"],
+    "targetCountries": ["AT"],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "https://example.com/austria-fest"
   }
 ]
