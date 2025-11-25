@@ -329,7 +329,7 @@
   },
   {
     "id": "ad-global-free-shipping",
-    "title": { "en": "Free shipping worldwide", "fa": "ارسال رایگان به سراسر جهان" },
+    "title": { "en": "az ma kharid konid ma behtarin nunaye donya ro darim kheyli khub va be sarfe kheyli shirin va khoshmaze az in behtar gir nemiarin", "fa": "ارسال رایگان به سراسر جهان" },
     "body": { "en": "Free shipping on orders over $50.", "fa": "ارسال رایگان برای سفارش‌های بالای ۵۰ دلار." },
     "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/bread.png",
     "targetCities": [],
