@@ -200,5 +200,146 @@
   "startDate": null,
   "endDate": null,
   "externalURL": "https://www.TrolleyApplication.com"
-}
+},
+  {
+  "id": "WhyTrolleyApplication",
+
+  "title": {
+    "en": "Why TrolleyApplication??? Hold your finger on this Ad to find out",
+    "az": "Niyə TrolleyApplication??? Öyrənmək üçün basılı saxla",
+    "fa": "چرا ترولی اپلیکیشن؟ انگشتت را روی این تبلیغ نگه دار تا بفهمی",
+    "ar": "لماذا ترولي أبلكيشن؟ اضغط بإصبعك مطولاً على هذا الإعلان لتعرف",
+    "bg": "Защо TrolleyApplication??? Задръж пръста си тук",
+    "bn": "কেন TrolleyApplication??? জানতে আঙুল ধরে রাখো",
+    "cs": "Proč TrolleyApplication??? Podrž prst a zjisti víc"
+    "da": "Hvorfor TrolleyApplication??? Hold fingeren her for at finde ud af det",
+    "de": "Warum TrolleyApplication??? Halte deinen Finger hier gedrückt",
+    "el": "Γιατί TrolleyApplication??? Κράτησε το δάχτυλό σου εδώ",
+    "es": "¿Por qué TrolleyApplication??? Mantén el dedo aquí",
+    "fi": "Miksi TrolleyApplication??? Pidä sormea tässä",
+    "fil": "Bakit TrolleyApplication??? Hawakan ang ad na ito",
+    "fr": "Pourquoi TrolleyApplication??? Maintiens ton doigt ici",
+    "hi": "TrolleyApplication क्यों??? जानने के लिए दबाए रखें"
+    "hr": "Zašto TrolleyApplication??? Drži prst ovdje i saznaj",
+    "hu": "Miért a TrolleyApplication??? Tartsd itt az ujjad",
+    "hy": "Ինչու՞ TrolleyApplication??? Պահիր մատդ այստեղ",
+    "id": "Kenapa TrolleyApplication??? Tahan jarimu di sini",
+    "it": "Perché TrolleyApplication??? Tieni premuto qui",
+    "ja": "なぜTrolleyApplication？ここを長押しして確認",
+    "ka": "რატომ TrolleyApplication??? დააჭირე და გაიგე",
+    "ko": "왜 TrolleyApplication인가요? 길게 눌러 확인하세요"
+    "no": "Hvorfor TrolleyApplication??? Hold fingeren her",
+    "nl": "Waarom TrolleyApplication??? Houd je vinger hier",
+    "pl": "Dlaczego TrolleyApplication??? Przytrzymaj palec tutaj",
+    "pt": "Por que TrolleyApplication??? Segure o dedo aqui",
+    "ro": "De ce TrolleyApplication??? Ține degetul aici",
+    "ru": "Почему TrolleyApplication??? Удерживайте палец здесь",
+    "sk": "Prečo TrolleyApplication??? Podrž prst tu"
+    "sl": "Zakaj TrolleyApplication??? Drži prst tukaj",
+    "sq": "Pse TrolleyApplication??? Mbaje gishtin këtu",
+    "sr": "Зашто TrolleyApplication??? Држи прст овде",
+    "sv": "Varför TrolleyApplication??? Håll fingret här",
+    "tg": "Чаро TrolleyApplication??? Ангуштатро нигоҳ дор",
+    "th": "ทำไมต้อง TrolleyApplication??? กดค้างไว้ที่นี่",
+    "tk": "Näme üçin TrolleyApplication??? Barmagyňy sakla",
+    "tr": "Neden TrolleyApplication??? Buraya basılı tut",
+    "ur": "TrolleyApplication کیوں؟ جاننے کے لیے دبائے رکھیں",
+    "vi": "Tại sao TrolleyApplication??? Giữ tay tại đây",
+    "ur": "ترولی ایپلیکیشن کیوں؟ جاننے کے لیے اس اشتہار پر انگلی رکھ کر دبائے رکھیں"
+    "zh": "为什么选择TrolleyApplication？按住这里了解更多"
+  },
+
+  "body": {
+    "en": "Have you ever gone to the store with many things in mind, but forgot half of them when you arrived? Or wrote your shopping list on paper and lost it later? With TrolleyApplication, everything becomes easy. You can create smart shopping lists, search items, organize them by category, share them with your family, and archive them safely. No more stress, no more forgetting. Just simple, fast, and smart shopping.",
+
+    "az": "Yəqin ki, çox dəfə mağazaya gedəndə nə alacağını unutmusan. Ya da siyahını kağıza yazıb itirmisən. TrolleyApplication ilə hər şey asan olur. Ağıllı siyahılar yarada, məhsulları axtara, kateqoriyalara ayıra və ailənlə paylaşa bilərsən.",
+    
+    "fa": "تا حالا شده با کلی چیز تو ذهنت بری فروشگاه، اما وقتی می‌رسی نصفشون یادت بره؟ یا لیست خریدتو روی کاغذ بنویسی و بعداً گمش کنی؟ با ترولی اپلیکیشن همه‌چیز راحت میشه. می‌تونی لیست‌های هوشمند بسازی، آیتم‌ها رو جستجو کنی، بر اساس دسته‌بندی مرتبشون کنی، با خانواده به اشتراک بذاری و با خیال راحت آرشیوشون کنی. دیگه نه استرس داری، نه فراموشی. فقط خرید ساده، سریع و هوشمند.",
+
+    "ar": "هل حدث أن ذهبت إلى المتجر وأنت تفكر في أشياء كثيرة، ثم نسيت نصفها عند الوصول؟ أو كتبت قائمة التسوق على ورق ثم ضاعت لاحقًا؟ مع ترولي أبلكيشن يصبح كل شيء أسهل. يمكنك إنشاء قوائم ذكية، البحث عن العناصر، تنظيمها حسب الفئات، مشاركتها مع عائلتك وأرشفتها بأمان. لا مزيد من التوتر ولا نسيان، فقط تسوق بسيط وسريع وذكي.",
+
+    "bg": "Случвало ли ти се е да отидеш до магазина и да забравиш какво трябва да купиш? Или да загубиш хартиения списък? С TrolleyApplication всичко става лесно. Създавай умни списъци, подреждай, споделяй и пазарувай без стрес.",
+
+    "bn": "তোমার কি কখনো হয়েছে দোকানে গিয়ে অর্ধেক জিনিস ভুলে যাওয়া? বা কাগজে লেখা লিস্ট হারিয়ে ফেলা? TrolleyApplication দিয়ে সব সহজ হয়ে যায়। স্মার্ট লিস্ট বানাও, আইটেম খোঁজো, শেয়ার করো আর নিশ্চিন্তে কেনাকাটা করো।",
+
+    "cs": "Už se ti stalo, že jsi přišel do obchodu a zapomněl, co koupit? Nebo jsi ztratil papírový seznam? S TrolleyApplication je všechno jednodušší. Vytvářej chytré seznamy, vyhledávej položky, sdílej je a nakupuj bez stresu."
+    
+    "da": "Er det sket for dig, at du glemmer, hvad du skulle købe? Eller mister din indkøbsliste? Med TrolleyApplication bliver det nemt. Lav smarte lister, find varer hurtigt, del dem med familien og shop uden stress.",
+
+    "de": "Ist es dir schon passiert, dass du im Laden vergessen hast, was du kaufen wolltest? Mit TrolleyApplication wird alles einfacher. Erstelle smarte Listen, suche Produkte und teile sie mit deiner Familie.",
+
+    "el": "Σου έχει τύχει να ξεχάσεις τι ήθελες να αγοράσεις; Με το TrolleyApplication όλα γίνονται πιο εύκολα. Δημιούργησε έξυπνες λίστες και μοιράσου τες με την οικογένεια.",
+
+    "es": "¿Te ha pasado olvidar qué comprar al llegar a la tienda? Con TrolleyApplication todo es más fácil. Crea listas inteligentes, busca productos y compártelas.",
+
+    "fi": "Oletko unohtanut ostettavat tuotteet kaupassa? TrolleyApplication auttaa sinua. Luo älykkäitä listoja, jaa ne ja tee ostoksista helppoa.",
+
+    "fil": "Naranasan mo na bang makalimutan ang bibilhin? Sa TrolleyApplication, madali kang makakagawa ng listahan at makakapag-share sa pamilya.",
+
+    "fr": "T’est-il déjà arrivé d’oublier quoi acheter ? Avec TrolleyApplication, crée des listes intelligentes et partage-les facilement.",
+
+    "hi": "क्या तुम कभी दुकान जाकर भूल गए हो क्या खरीदना था? TrolleyApplication से स्मार्ट लिस्ट बनाओ और बिना टेंशन के खरीदारी करो।"
+
+    "hr": "Jesi li ikad zaboravio što trebaš kupiti? Ili izgubio popis? S TrolleyApplication sve postaje jednostavno. Izradi pametne liste, dijeli ih i kupuj bez stresa.",
+
+    "hu": "Előfordult már, hogy elfelejtetted, mit kell venni? A TrolleyApplication segít rendszerezni a vásárlást és megosztani a listákat.",
+
+    "hy": "Երբևէ մոռացե՞լ ես ինչ գնել։ TrolleyApplication-ը օգնում է ստեղծել խելացի ցուցակներ և կիսվել ընտանիքի հետ։",
+
+    "id": "Pernah lupa mau beli apa? Dengan TrolleyApplication, kamu bisa membuat daftar pintar dan berbagi dengan keluarga.",
+
+    "it": "Hai mai dimenticato cosa comprare? Con TrolleyApplication puoi creare liste intelligenti e condividerle facilmente.",
+
+    "ja": "買うものを忘れたことはありませんか？TrolleyApplicationなら、簡単にリストを作って共有できます。",
+
+    "ka": "ხომ არ დაგვიწყებია რა უნდა იყიდო? TrolleyApplication დაგეხმარება სიების შექმნაში და გაზიარებაში.",
+
+    "ko": "쇼핑할 것을 잊은 적 있나요? TrolleyApplication으로 스마트 목록을 만들고 가족과 공유하세요."
+
+    "ms": "Pernah lupa apa yang hendak dibeli? Dengan TrolleyApplication, buat senarai pintar, kongsi dengan keluarga dan beli tanpa stres.",
+
+    "no": "Har du glemt hva du skulle kjøpe? Med TrolleyApplication kan du lage smarte lister og handle uten stress.",
+
+    "nl": "Ben je ooit vergeten wat je moest kopen? Met TrolleyApplication maak je slimme lijsten en deel je ze gemakkelijk.",
+
+    "pl": "Zdarzyło ci się zapomnieć, co kupić? Z TrolleyApplication twórz listy i kupuj bez stresu.",
+
+    "pt": "Já esqueceu o que comprar? Com TrolleyApplication, crie listas inteligentes e compartilhe facilmente.",
+
+    "ro": "Ai uitat vreodată ce trebuie să cumperi? Cu TrolleyApplication creezi liste inteligente și faci cumpărături fără stres.",
+
+    "ru": "Забывал, что нужно купить? С TrolleyApplication создавай списки и делись ими без стресса.",
+
+    "sk": "Stalo sa ti, že si zabudol, čo kúpiť? S TrolleyApplication je nakupovanie jednoduché."
+
+    "sl": "Si že kdaj pozabil, kaj moraš kupiti? S TrolleyApplication lahko ustvariš pametne sezname in nakupuješ brez skrbi.",
+
+    "sq": "Ke harruar ndonjëherë çfarë të blesh? Me TrolleyApplication krijon lista inteligjente dhe blen pa stres.",
+
+    "sr": "Да ли си некад заборавио шта треба купити? Са TrolleyApplication правиш паметне листе и купујеш без стреса.",
+
+    "sv": "Har du glömt vad du skulle köpa? Med TrolleyApplication skapar du smarta listor och handlar lugnt.",
+
+    "tg": "Боре фаромӯш кардаӣ чӣ харӣ? Бо TrolleyApplication рӯйхат месозӣ ва осон харид мекунӣ.",
+
+    "th": "เคยลืมไหมว่าต้องซื้ออะไร? ใช้ TrolleyApplication สร้างลิสต์อัจฉริยะและช้อปสบายใจ",
+
+    "tk": "Näme satyn almalydygyny unutdyňmy? TrolleyApplication bilen aňsat sanaw döredip, rahat söwda et.",
+
+    "tr": "Ne alacağını unuttun mu? TrolleyApplication ile akıllı listeler oluştur ve stressiz alışveriş yap.",
+
+    "vi": "Bạn từng quên mua gì chưa? Với TrolleyApplication, bạn tạo danh sách thông minh và mua sắm dễ dàng.",
+    
+    "ur": "کیا کبھی ایسا ہوا کہ تم بہت سی چیزیں ذہن میں لے کر دکان گئے ہو، لیکن پہنچ کر آدھی بھول گئے ہو؟ یا خریداری کی فہرست کاغذ پر لکھی اور بعد میں گم ہو گئی ہو؟ ترولی ایپلیکیشن کے ساتھ سب کچھ آسان ہو جاتا ہے۔ تم اسمارٹ لسٹ بنا سکتے ہو، چیزیں تلاش کر سکتے ہو، کیٹیگری کے مطابق ترتیب دے سکتے ہو، خاندان کے ساتھ شیئر کر سکتے ہو اور محفوظ طریقے سے محفوظ رکھ سکتے ہو۔ نہ کوئی ٹینشن، نہ کوئی بھول۔ بس آسان، تیز اور ہوشیار خریداری۔"
+
+    "zh": "你是否忘记过要买什么？使用TrolleyApplication创建智能清单，轻松购物。"
+  },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/WhyTrolleyApplication.png",
+    "targetCities": [],
+    "targetRegions": [],
+    "targetCountries": [],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "http://www.TrolleyApplication.com"
+  }
 ]
