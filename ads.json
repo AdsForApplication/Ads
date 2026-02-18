@@ -98,5 +98,17 @@
     "startDate": null,
     "endDate": null,
     "externalURL": "http://www.TrolleyApplication.com"
+  },
+  {
+    "id": "Website",
+    "title": { "en": "Visit our Website"},
+    "body": { "en": "Tap on this AD" },
+    "imageURL": "https://raw.githubusercontent.com/AdsForApplication/Ads/main/Website.png",
+    "targetCities": [],
+    "targetRegions": [],
+    "targetCountries": [],
+    "startDate": null,
+    "endDate": null,
+    "externalURL": "https://www.TrolleyApplication.com"
   }
 ]
